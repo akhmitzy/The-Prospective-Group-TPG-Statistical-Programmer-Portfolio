@@ -122,4 +122,4 @@ PIC/                                         (unzip PIC.zip here)
 
 ## About
 
-Built by [your name] as a work sample for a Statistical Programmer position supporting child-health research. Contact: [email / LinkedIn].
+Built by Ram Akhmitzyanov as a work sample for a TPG Statistical Programmer position supporting child-health research. Contact: in my resume for TPG.
