@@ -117,7 +117,7 @@ Part1_Longitudinal_Analysis_TPG.ipynb
 README_Part1_Longitudinal.md
 Part2_HighDimensional_Analysis_TPG.ipynb
 README_Part2_HighDimensional.md
-PIC/                                         (unzip PIC.zip here)
+PIC/                                         
 ```
 
 ## About
