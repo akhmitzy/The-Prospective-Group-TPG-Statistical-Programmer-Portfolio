@@ -1,4 +1,4 @@
-# Statistical Programmer Portfolio: Longitudinal and High-Dimensional Analysis in Child Health Research (R)
+# For TPG: Statistical Programmer Portfolio: Longitudinal and High-Dimensional Analysis in Child Health Research (R)
 
 A portfolio of two complete, reproducible analyses written in **R** for a Statistical Programmer role supporting NICHD-style child-health studies. One analysis covers **longitudinal data** (a pediatric birth cohort followed from birth to age 5). The other covers **high-dimensional data** (10,000 molecular features measured on 400 children). Each analysis also tests **neural networks as competitors to the classical methods**, under identical validation rules, and reports honestly where they do and do not help.
 
