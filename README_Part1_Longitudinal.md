@@ -120,7 +120,7 @@ A paired bootstrap over children gives RMSE(GRU ensemble) minus RMSE(mixed model
 
 R's `torch` package needs a large binary download, so all networks are written **from scratch in base R**: a multilayer perceptron, a GRU with hand-written back-propagation through time, the Cox partial-likelihood loss, the AdamW optimizer, dropout and early stopping. The notebook verifies every gradient against finite differences before using the code (maximum relative error 9.9e-09 for the MLP, 2.5e-09 for the Cox loss, 2.2e-07 for the GRU), so the networks need no extra installs in Colab. For production-scale data, the same designs are available in `torch` or `keras`.
 
-## How to run
+## How to run for beginners
 
 1. Open `Part1_Longitudinal_Analysis_TPG.ipynb` in [Google Colab](https://colab.research.google.com) and choose **Runtime > Change runtime type > R**.
 2. Click **Runtime > Run all**. The first cell installs any missing packages (`lme4`, `geepack`, `mice`); expect about 2 to 3 minutes of runtime in total.
