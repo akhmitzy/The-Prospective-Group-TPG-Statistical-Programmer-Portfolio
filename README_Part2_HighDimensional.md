@@ -126,7 +126,7 @@ The autoencoder beats the feature mean but not PCA or low-rank SVD at this sampl
 - Multiplicity control, moderated tests with batch adjustment, stability selection and sample splitting each address a different failure mode, and the simulation study quantifies them.
 - In this setting (400 samples, 10,000 features, a sparse linear signal), classical methods match or beat the neural networks and are much easier to validate and explain. Networks only become competitive after feature screening, and their attributions then add little over the screening statistic.
 
-## How to run
+## How to run for beginners
 
 1. Open `Part2_HighDimensional_Analysis_TPG.ipynb` in [Google Colab](https://colab.research.google.com) and choose **Runtime > Change runtime type > R**.
 2. Click **Runtime > Run all**. The first cell installs `glmnet` and `limma` (limma comes from Bioconductor, which can take a few minutes the first time). Expect about 10 to 15 minutes in total.
